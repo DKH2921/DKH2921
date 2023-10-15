@@ -36,7 +36,7 @@ From my initial exploration of the web to today's web website development, I hav
 ***
 
 <p align="center">
-  Looking forward to your ⭐️ Star!
+  Looking forward to your join⭐️ Star!
 </p>
 
 <img align="center" alt="Code gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding-freak.gif" width="100%" />
