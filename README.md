@@ -12,7 +12,7 @@
 
 I am a Simulated flight enthusiasts, and I stumbled across cybersecurity testing in junior high, which started an exciting journey for me.
 
-From my initial exploration of web security testing to today's web application and software development, my interest in this field has never waned.
+From my initial exploration of the web to today's web website development, I have never given up on exploring this field!
 
 ## ⚡ Technologies
 
