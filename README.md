@@ -18,7 +18,7 @@ From my initial exploration of the web to today's web website development, I hav
 
 ### Cyber Security
 
-- SQL Injection
+- MySQL Injection
 - Website production
 - Website backend development
 - Code Review
