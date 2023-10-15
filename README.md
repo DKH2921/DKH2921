@@ -19,10 +19,8 @@ From my initial exploration of the web to today's web website development, I hav
 ### Cyber Security
 
 - SQL Injection
-- Cross-Site Scripting (XSS)
-- Cross-Site Request Forgery (CSRF)
+- Website production
 - Logical Vulnerability Analysis
-- Social Engineering Testing
 - Code Review
 
 ## 🎮🕹 Games
