@@ -10,7 +10,7 @@
 
 ## 🧐 About Me
 
-I am a practicing physician, and I stumbled across cybersecurity testing in junior high, which started an exciting journey for me.
+I am a Simulated flight enthusiasts, and I stumbled across cybersecurity testing in junior high, which started an exciting journey for me.
 
 From my initial exploration of web security testing to today's web application and software development, my interest in this field has never waned.
 
