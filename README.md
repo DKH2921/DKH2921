@@ -20,7 +20,7 @@ From my initial exploration of the web to today's web website development, I hav
 
 - SQL Injection
 - Website production
-- Logical Vulnerability Analysis
+- Website backend development
 - Code Review
 
 ## 🎮🕹 Games
